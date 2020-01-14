@@ -21,5 +21,6 @@ int main()
         pos = nenulovy + 1;
     }
     std::copy_if(cisla.begin(), cisla.end(), std::ostream_iterator<int>(cout, " "),[](auto i){return i!=0;});
+    //nieco som doplnil
     return 0;
 }

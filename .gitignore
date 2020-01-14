@@ -1,0 +1,74 @@
+# Created by .ignore support plugin (hsz.mobi)
+### C++ template
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/stlVektorSito.iml
+.idea/vcs.xml
+CMakeLists.txt
+cmake-build-debug/CMakeCache.txt
+cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake
+cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake
+cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin
+cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin
+cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake
+cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/tmp/
+cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/tmp/
+cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake
+cmake-build-debug/CMakeFiles/CMakeOutput.log
+cmake-build-debug/CMakeFiles/CMakeTmp/
+cmake-build-debug/CMakeFiles/Makefile.cmake
+cmake-build-debug/CMakeFiles/Makefile2
+cmake-build-debug/CMakeFiles/TargetDirectories.txt
+cmake-build-debug/CMakeFiles/clion-environment.txt
+cmake-build-debug/CMakeFiles/clion-log.txt
+cmake-build-debug/CMakeFiles/cmake.check_cache
+cmake-build-debug/CMakeFiles/progress.marks
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/CXX.includecache
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/DependInfo.cmake
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/build.make
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/cmake_clean.cmake
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/depend.internal
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/depend.make
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/flags.make
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/link.txt
+cmake-build-debug/CMakeFiles/stlVektorSito.dir/progress.make
+cmake-build-debug/Makefile
+cmake-build-debug/cmake_install.cmake
+cmake-build-debug/stlVektorSito
+cmake-build-debug/stlVektorSito.cbp
